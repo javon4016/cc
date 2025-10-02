@@ -1,0 +1,519 @@
+#EXTM3U x-tvg-url="https://epg.erw.cc/all.xml"
+
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://livecdn.zbds.org/logo/军事评论.png" group-title="4K+电影回看",军事评论
+http://tvgslb.hn.chinamobile.com:8089/000000002000/5822616274253344775/main.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/黑莓电影.png" group-title="4K+电影回看",黑莓电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CHC-动作电影.png" group-title="4K+电影回看",CHC动作电影
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CHC-家庭影院.png" group-title="4K+电影回看",CHC家庭影院
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448840&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CHC-影迷电影.png" group-title="4K+电影回看",CHC影迷电影
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448841&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="4K+电影回看",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="4K+电影回看",凤凰中文
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="4K+电影回看",凤凰中文
+http://r.jdshipin.com/cCCzW
+
+
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-4K.png" group-title="4K+电影回看",CCTV4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?channel-id=ystenlive&Contentid=2211020848462000290559536&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-16.png" group-title="4K+电影回看",CCTV16-4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8?channel-id=ystenlive&Contentid=1000000000085000000178450&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/北京卫视-4K.png" group-title="4K+电影回看",北京卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025041016455754529971118212688/main.m3u8?channel-id=ystenlive&Contentid=1016455754529971118212688&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东方卫视-4K.png" group-title="4K+电影回看",东方卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262078079170451541005/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视4K.png" group-title="4K+电影回看",广东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216045554851550640574941/main.m3u8?channel-id=ystenlive&Contentid=1216045554851550640574941&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖南卫视-4K.png" group-title="4K+电影回看",湖南卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308827/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308827&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/江苏卫视-4K.png" group-title="4K+电影回看",江苏卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262178928213010539289/main.m3u8?channel-id=ystenlive&Contentid=1110262178928213010539289&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/山东卫视-4K.png" group-title="4K+电影回看",山东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262122088149630612658/main.m3u8?channel-id=ystenlive&Contentid=1110262122088149630612658&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视4K.png" group-title="4K+电影回看",深圳卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8?channel-id=ystenlive&Contentid=1216044934209640975946187&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/四川卫视-4K.png" group-title="4K+电影回看",四川卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262063636605981698869/main.m3u8?channel-id=ystenlive&Contentid=1110262063636605981698869&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/浙江卫视-4K.png" group-title="4K+电影回看",浙江卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262252695540491433081/main.m3u8?channel-id=ystenlive&Contentid=1110262252695540491433081&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://livecdn.zbds.org/logo/欢笑剧场4K.png" group-title="4K+电影回看",欢笑剧场4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/main.m3u8?channel-id=ystenlive&Contentid=2210575059626176209727023&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://livecdn.zbds.org/logo/纯享4K.png" group-title="4K+电影回看",纯享4K
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-16.png" group-title="4K+电影回看",CCTV16-4K
+http://36.158.166.3:8089/180000001001/00000001000000000085000000178450/main.m3u8?channel-id=ystenlive&Contentid=1000000000085000000178450&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-4K.png" group-title="4K+电影回看",CCTV4K
+http://36.158.166.3:8089/180000001001/32023092211020848462000290559536/main.m3u8?channel-id=ystenlive&Contentid=2211020848462000290559536&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖南卫视-4K.png" group-title="4K+电影回看",湖南卫视4K
+http://36.158.166.3:8089/180000001001/00000001000000000064000000308827/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308827&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/浙江卫视-4K.png" group-title="4K+电影回看",浙江卫视4K
+http://36.158.166.3:8089/180000001001/32025091110262252695540491433081/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308827&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/北京卫视-4K.png" group-title="4K+电影回看",北京卫视4K
+http://36.158.166.3:8089/180000001001/32025022616374181764583225166397/index.m3u8?channel-id=ystenlive&Contentid=1016455754529971118212688&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东方卫视-4K.png" group-title="4K+电影回看",东方卫视4K
+http://36.158.166.3:8089/180000001001/32025091110262078079170451541005/main.m3u8?channel-id=ystenlive&Contentid=111026207807917045154100
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视4K.png" group-title="4K+电影回看",深圳卫视4K
+http://36.158.166.3:8089/180000001001/32025061216044934209640975946187/main.m3u8?channel-id=ystenlive&Contentid=111026207807917045154100
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视4K.png" group-title="4K+电影回看",广东卫视4K
+http://36.158.166.3:8089/180000001001/32025061216045554851550640574941/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/山东卫视-4K.png" group-title="4K+电影回看",山东卫视4K
+http://36.158.166.3:8089/180000001001/32025091110262122088149630612658/main.m3u8?channel-id=ystenlive&Contentid=1016455754529971118212688&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/四川卫视-4K.png" group-title="4K+电影回看",四川卫视4K
+http://36.158.166.3:8089/180000001001/32025091110262063636605981698869/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/江苏卫视-4K.png" group-title="4K+电影回看",江苏卫视4K
+http://36.158.166.3:8089/180000001001/32025091110262178928213010539289/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://livecdn.zbds.org/logo/欢笑剧场4K.png" group-title="4K+电影回看",欢笑剧场4K
+http://36.158.166.3:8089/180000001001/32024042210575059626176209727023/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南电影.png" group-title="湖南频道",湖南电影
+http://39.134.240.4/PLTV/2/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南电视剧.png" group-title="湖南频道",湖南电视剧
+http://39.134.240.4/PLTV/2/224/3221226138/index.m3u8
+#EXTINF:-1 tvg-name="湖南都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png" group-title="湖南频道",湖南都市
+http://39.134.240.4/PLTV/2/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png" group-title="湖南频道",湖南经视
+http://39.134.240.4/PLTV/2/224/3221226036/index.m3u8
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png" group-title="湖南频道",湖南国际
+http://39.134.240.4/PLTV/2/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南爱晚.png" group-title="湖南频道",湖南爱晚
+http://39.134.240.4/PLTV/2/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png" group-title="湖南频道",湖南娱乐
+http://39.134.240.4/PLTV/2/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-name="湖南都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png" group-title="湖南频道",湖南都市
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000195952/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000195952&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南爱晚.png" group-title="湖南频道",湖南爱晚
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197676/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197676&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南电影.png" group-title="湖南频道",湖南电影
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197673/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197673&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南电视剧.png" group-title="湖南频道",湖南电视剧
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000196987/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000196987&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png" group-title="湖南频道",湖南经视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000194900/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000194900&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png" group-title="湖南频道",湖南娱乐
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197674/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197674&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png" group-title="湖南频道",湖南国际
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197677/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197677&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="湖南频道",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197675/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197675&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖南教育.png" group-title="湖南频道",湖南教育
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8?channel-id=ystenlive&Contentid=1000000000023000000196697&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/长沙新闻综合.png" group-title="湖南频道",长沙新闻综合
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047429&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/长沙政法.png" group-title="湖南频道",长沙政法
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047430&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-1.png" group-title="央视频道",CCTV1
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197683/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197683&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-2.png" group-title="央视频道",CCTV2
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197684/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197684&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-3.png" group-title="央视频道",CCTV3
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197685/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197685&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-4.png" group-title="央视频道",CCTV4
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197688/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197688&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-4K.png" group-title="央视频道",CCTV4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?channel-id=ystenlive&Contentid=2211020848462000290559536&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-5.png" group-title="央视频道",CCTV5
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197689/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197689&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-5 .png" group-title="央视频道",CCTV5+
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047442&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-6.png" group-title="央视频道",CCTV6
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197690/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197690&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-7.png" group-title="央视频道",CCTV7
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197691/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197691&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-8.png" group-title="央视频道",CCTV8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197692/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197692&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-9.png" group-title="央视频道",CCTV9
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047438&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-10.png" group-title="央视频道",CCTV10
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047439&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-11.png" group-title="央视频道",CCTV11
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/main.m3u8?channel-id=ystenlive&Contentid=1000000000026000000446966&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-12.png" group-title="央视频道",CCTV12
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047440&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-13.png" group-title="央视频道",CCTV13
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197693/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197693&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-14.png" group-title="央视频道",CCTV14
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047441&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-15.png" group-title="央视频道",CCTV15
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/main.m3u8?channel-id=ystenlive&Contentid=1000000000026000000446967&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-16.png" group-title="央视频道",CCTV16-4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8?channel-id=ystenlive&Contentid=1000000000085000000178450&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-16.png" group-title="央视频道",CCTV16
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8?channel-id=ystenlive&Contentid=1000000000079000000434986&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-17.png" group-title="央视频道",CCTV17
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8?channel-id=ystenlive&Contentid=1000000000025000000024152&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CETV-1.png" group-title="央视频道",CETV-1
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8?channel-id=ystenlive&Contentid=1000000000016000000007220&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CETV-2.png" group-title="央视频道",CETV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361367/main.m3u8?channel-id=ystenlive&Contentid=1000000000024000000361367&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CETV-4.png" group-title="央视频道",CETV-4
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8?channel-id=ystenlive&Contentid=1000000000024000000361368&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-兵器科技.png" group-title="央视频道",兵器科技
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244796&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-第一剧场.png" group-title="央视频道",第一剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244808&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-风云剧场.png" group-title="央视频道",风云剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244807&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-风云音乐.png" group-title="央视频道",风云音乐
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244809&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-风云足球.png" group-title="央视频道",风云足球
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244800&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244806&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-世界地理.png" group-title="央视频道",世界地理
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244805&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-台球.png" group-title="央视频道",央视台球
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244803&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/CCTV-文化精品.png" group-title="央视频道",文化精品
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244810&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/中央新影-老故事.png" group-title="央视频道",老故事
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448839&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/纪实科教.png" group-title="卫视频道",北京纪实科教
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024021915401878655075619734783/main.m3u8?channel-id=ystenlive&Contentid=1915401878655075619734783&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8?channel-id=ystenlive&Contentid=1000000000016000000007224&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/北京卫视.png" group-title="卫视频道",北京卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047443&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000193885/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000193885&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/广东卫视.png" group-title="卫视频道",广东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040391&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047446&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381024/main.m3u8?channel-id=ystenlive&Contentid=1000000000022000000381024&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308825/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308825&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东方卫视.png" group-title="卫视频道",东方卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047445/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047445&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东南卫视.png" group-title="卫视频道",东南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040459&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000133802&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/广西卫视.png" group-title="卫视频道",广西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215605/main.m3u8?channel-id=ystenlive&Contentid=1000000000090000000215605&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040424/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040424&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/海南卫视.png" group-title="卫视频道",海南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208265/main.m3u8?channel-id=ystenlive&Contentid=1000000000057000000208265&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/河北卫视.png" group-title="卫视频道",河北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007223/main.m3u8?channel-id=ystenlive&Contentid=1000000000016000000007223&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/河南卫视.png" group-title="卫视频道",河南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208264/main.m3u8?channel-id=ystenlive&Contentid=1000000000057000000208264&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047449&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047447/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047447&livemode=1&stbId=4
+
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208223/main.m3u8?channel-id=ystenlive&Contentid=1000000000057000000208223&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197694/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197694&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/江西卫视.png" group-title="卫视频道",江西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182287/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182287&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000134000000367619/main.m3u8?channel-id=ystenlive&Contentid=1000000000134000000367619&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007225/main.m3u8?channel-id=ystenlive&Contentid=1000000000016000000007225&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182272/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182272&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182273/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182273&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/青海卫视.png" group-title="卫视频道",青海卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215609/main.m3u8?channel-id=ystenlive&Contentid=1000000000090000000215609&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8?channel-id=ystenlive&Contentid=1000000000031000000068476&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/山东教育卫视.png" group-title="卫视频道",山东教育
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8?channel-id=ystenlive&Contentid=1000000000016000000007227&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/山东卫视.png" group-title="卫视频道",山东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047448/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047448&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/山西卫视.png" group-title="卫视频道",山西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182271/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182271&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215607/main.m3u8?channel-id=ystenlive&Contentid=1000000000090000000215607&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/四川卫视.png" group-title="卫视频道",四川卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308823/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308823&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/天津卫视.png" group-title="卫视频道",天津卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047444/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047444&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381023/main.m3u8?channel-id=ystenlive&Contentid=1000000000022000000381023&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182274/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182274&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182275&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/延边卫视.png" group-title="卫视频道",延边卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32023031709181220216556910725802/main.m3u8?channel-id=ystenlive&Contentid=1709181220216556910725802&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/云南卫视.png" group-title="卫视频道",云南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8?channel-id=ystenlive&Contentid=1000000000090000000215606&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/main.m3u8?channel-id=ystenlive&Contentid=1000000000007000000001250&livemode=1&stbId=4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://livecdn.zbds.org/logo/明星大片.png" group-title="NEWTV频道",NEWTV-明星大片
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://livecdn.zbds.org/logo/超级电影.png" group-title="NEWTV频道",NEWTV-超级电影
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=yu&mode=1
+
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://livecdn.zbds.org/logo/动作电影.png" group-title="NEWTV频道",NEWTV-动作电影
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1
+
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://livecdn.zbds.org/logo/爱情喜剧.png" group-title="NEWTV频道",NEWTV-爱情喜剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1
+
+
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://livecdn.zbds.org/logo/欢乐剧场.png" group-title="NEWTV频道",NEWTV-欢乐剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=yu&mode=1
+
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://livecdn.zbds.org/logo/东北热剧.png" group-title="NEWTV频道",NEWTV-东北热剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=yu&mode=1
+
+
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://livecdn.zbds.org/logo/超级电视剧.png" group-title="NEWTV频道",NEWTV-超级电视剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=yu&mode=1
+
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://livecdn.zbds.org/logo/潮妈辣婆.png" group-title="NEWTV频道",NEWTV-潮妈辣婆
+http://tvgslb.hn.chinamobile.com:8089/000000002000/6516734029835465177/main.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="NEWTV频道",NEWTV-古装剧场
+http://tvgslb.hn.chinamobile.com:8089/000000002000/6859053933687922163/main.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NEWTV频道",NEWTV-家庭剧场
+http://tvgslb.hn.chinamobile.com:8089/000000002000/6316377948248689070/main.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://livecdn.zbds.org/logo/金牌综艺.png" group-title="NEWTV频道",NEWTV-金牌综艺
+http://tvgslb.hn.chinamobile.com:8089/000000002000/6399725674632152632/main.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://livecdn.zbds.org/logo/惊悚悬疑.png" group-title="NEWTV频道",NEWTV-惊悚悬疑
+http://tvgslb.hn.chinamobile.com:8089/000000002000/7151256057701199617/main.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://livecdn.zbds.org/logo/精品大剧.png" group-title="NEWTV频道",NEWTV-精品大剧
+http://tvgslb.hn.chinamobile.com:8089/000000002000/7882297361445410858/main.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://livecdn.zbds.org/logo/精品纪录.png" group-title="NEWTV频道",NEWTV-精品纪录
+http://tvgslb.hn.chinamobile.com:8089/000000002000/6298506997017621594/main.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://livecdn.zbds.org/logo/精品体育.png" group-title="NEWTV频道",NEWTV-精品体育
+http://tvgslb.hn.chinamobile.com:8089/000000002000/6460382139625130259/main.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://livecdn.zbds.org/logo/军旅剧场.png" group-title="NEWTV频道",NEWTV-军旅剧场
+http://tvgslb.hn.chinamobile.com:8089/000000002000/7485075951068666323/main.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://livecdn.zbds.org/logo/军事评论.png" group-title="NEWTV频道",NEWTV-军事评论
+http://tvgslb.hn.chinamobile.com:8089/000000002000/5822616274253344775/main.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://livecdn.zbds.org/logo/炫舞未来.png" group-title="NEWTV频道",NEWTV-炫舞未来
+http://tvgslb.hn.chinamobile.com:8089/000000002000/1000000001000000515/main.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东方财经.png" group-title="数字频道",东方财经
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042209595643000133896920951/main.m3u8?channel-id=ystenlive&Contentid=2209595643000133896920951&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/都市剧场.png" group-title="数字频道",都市剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210583485808646614571396/main.m3u8?channel-id=ystenlive&Contentid=2210583485808646614571396&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/法治天地.png" group-title="数字频道",法治天地
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/main.m3u8?channel-id=ystenlive&Contentid=2210594333901402503226852&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/黑莓电影.png" group-title="数字频道",黑莓电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/黑莓动画.png" group-title="数字频道",黑莓动画
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/环球旅游.png" group-title="数字频道",环球旅游
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308870&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/环球奇观.png" group-title="数字频道",环球奇观
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32023061416181029613614091027931/main.m3u8?channel-id=ystenlive&Contentid=1416181029613614091027931&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/纪实科教.png" group-title="数字频道",北京纪实科教
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024021915401878655075619734783/main.m3u8?channel-id=ystenlive&Contentid=1915401878655075619734783&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/金色学堂.png" group-title="数字频道",金色学堂
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211003612942969703619522/main.m3u8?channel-id=ystenlive&Contentid=2211003612942969703619522&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/乐游.png" group-title="数字频道",乐游
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210562120685964078060674/main.m3u8?channel-id=ystenlive&Contentid=2210562120685964078060674&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/梨园频道.png" group-title="数字频道",梨园频道
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308847/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308847&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://tvgslb.hn.chinamobile.com:8089/000000002000/1000000006000270002/main.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/睛彩青少.png" group-title="数字频道",睛彩青少
+http://tvgslb.hn.chinamobile.com:8089/000000002000/1000000006000270007/main.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/生活时尚.png" group-title="数字频道",生活时尚
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211012947472200435228155/main.m3u8?channel-id=ystenlive&Contentid=2211012947472200435228155&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="收藏天下" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/收藏天下.png" group-title="数字频道",收藏天下
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32022110411090836203478380759910/main.m3u8?channel-id=ystenlive&Contentid=0411090836203478380759910&livemode=1&stbId=4
+
+
+
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/四海钓鱼.png" group-title="数字频道",四海钓鱼
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040367&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/天元围棋.png" group-title="数字频道",天元围棋
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040365&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/文物宝库.png" group-title="数字频道",文物宝库
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308848&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/武术世界.png" group-title="数字频道",武术世界
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308859&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/游戏风云.png" group-title="数字频道",游戏风云
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/main.m3u8?channel-id=ystenlive&Contentid=2211010049110856436458678&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8?channel-id=ystenlive&Contentid=2210585548805959716256407&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381025/main.m3u8?channel-id=ystenlive&Contentid=1000000000022000000381025&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197678/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197678&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/哒啵赛事.png" group-title="少儿频道",哒啵赛事
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8?channel-id=ystenlive&Contentid=1000000000090000000215608&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/新动漫.png" group-title="少儿频道",新动漫
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448837&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182321/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182321&livemode=1&stbId=4
+
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/优优宝贝.png" group-title="少儿频道",优优宝贝
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040377&livemode=1&stbId=4
+
