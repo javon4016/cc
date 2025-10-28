@@ -1,0 +1,26 @@
+一、过ruru检测
+ruru---环境检测发现busybox：
+删掉system/xbin/busybox
+
+ruru---libc和syscall文件检查发现了“com.tsng.hidemyapplist”：
+安装改包名版的“隐藏应用列表”app
+
+
+二、过momo检测
+momo---ART参数异常：
+将/data/adb/modules/zygisk_lsposed或/data/adb/modules/riru_lsposed下system.prop文件内的内容修改为ro.debuggable=0
+
+momo---数据未加密，挂载参数被修改：
+刷“解决 “数据未加密，挂载参数被修改”.zip”模块
+
+momo---Seccomp未开启：
+刷“Selinux.zip”模块(该模块会导致夜神的输入法失效，但是雷神输入法不影响，副作用是会导致Selinux宽容模式变SELinux规则异常，允许了neverallow条目。)-----可能对某些环境有效，但是有副作用，不是一个很好的方法
+
+momo---处于调试环境：
+刷“universal safetynet-fix”模块，或
+
+三、过native detector检测
+发现注入（dalvik-jit-code-cache 和 vsyscall）
+1、禁用dalvik.vm.usejit
+/system/build.prop文件内容末尾添加dalvik.vm.usejit=false
+2、vsyscall
