@@ -1,4 +1,4 @@
-4K超清频道,#genre#
+4K超清,#genre#
 湖南卫视4K[3840*2160],http://61.150.160.70:6610/000000002000/201500000219/index.m3u8?zte_offset=30&ispcode=2&starttime=
 北京卫视4K[3840*2160],http://61.150.160.70:6610/000000002000/201500000638/index.m3u8?zte_offset=30&ispcode=2&starttime=
 北京卫视4K[3840*2160],http://61.150.160.70:6610/000000002000/201500000640/index.m3u8?zte_offset=30&ispcode=2&starttime=
@@ -235,3 +235,4 @@ SiTV,#genre#
 快乐购[1920*1080],http://61.150.160.70:6610/000000002000/201500000243/index.m3u8?zte_offset=30&ispcode=2&starttime=
 嘉丽购[1920*1080],http://61.150.160.70:6610/000000002000/201500000532/index.m3u8?zte_offset=30&ispcode=2&starttime=
 优购物[1920*1080],http://61.150.160.70:6610/000000002000/201500000564/index.m3u8?zte_offset=30&ispcode=2&starttime=
+
